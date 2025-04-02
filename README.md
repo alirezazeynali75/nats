@@ -2,8 +2,6 @@
 
 This project demonstrates a simple implementation of a NATS-based messaging system with JetStream support. It includes a publisher and a subscriber service, both of which interact with a NATS server.
 
-
-
 ## Features
 
 - **NATS Server** with JetStream enabled.
